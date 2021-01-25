@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>bash</Shell>
   <Privileged>false</Privileged>
-  <Support>https://forums.unraid.net/topic/</Support>
+  <Support>https://forums.unraid.net/topic/101833-support-d8sychain-elasticsearch/</Support>
   <Project>https://www.elastic.co/</Project>
   <Overview>&#xD;
 This Elasticsearch docker version is built from the official Elasticsearch docker with minimal changes tailoring it for easier use on Unraid and for the purpose for use with Nextcloud. [br]&#xD;
