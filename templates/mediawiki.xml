@@ -11,7 +11,7 @@
   <Project>https://www.mediawiki.org</Project>
   <Overview>MediaWiki with WYSIWYG VisualEditor extension and Parsoid service. Built with Alpine, S6-overlay, NGINX, PHP-FPM with PHP 7.3, NodeJS, along with other extensions.</Overview>
   <Category>Cloud: Productivity: Tools: Network:Web</Category>
-  <WebUI>http://[IP]:[PORT:9090]</WebUI>
+  <WebUI>http://[IP]:[PORT:80]</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/d8sychain/unraid-ca-templates/master/templates/mediawiki.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/d8sychain/unraid-ca-templates/master/images/mediawiki.png</Icon>
   <ExtraParams/>
